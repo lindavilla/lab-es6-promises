@@ -6,6 +6,14 @@ img {
   width: 200px;
 }
 
+#images {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+
+
 li {
   font-size: 16px;
   line-height: 1.5rem;
